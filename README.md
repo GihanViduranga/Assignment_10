@@ -1,6 +1,5 @@
-﻿# Assignment_10
+﻿# 🧮 Simple Calculator
 
-🧮 Simple Calculator
 A basic calculator app made with HTML, CSS, and JavaScript (jQuery) to perform simple math operations!
 
 ✨ Features
