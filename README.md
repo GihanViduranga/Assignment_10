@@ -3,10 +3,15 @@
 A basic calculator app made with HTML, CSS, and JavaScript (jQuery) to perform simple math operations!
 
 ✨ Features
+
 Basic Operations: +, -, ×, ÷
+
 Clear (C): Reset everything
+
 Delete (DEL): Remove last entry
+
 Decimal Support: Use for precise calculations
+
 
 🚀 Getting Started
 
